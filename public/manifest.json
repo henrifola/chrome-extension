@@ -1,0 +1,10 @@
+{
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "name": "React Vite Chrome Extension",
+    "description": "This is a Chrome extension built with React, Vite, and Chakra UI",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "React Vite Chrome Extension"
+    }
+}
